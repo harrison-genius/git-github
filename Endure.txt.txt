@@ -1,1 +1,3 @@
 I had to endure hard time to learn how to push files to github remote repository from my local repository.
+
+It is very interesting learning this bit of DeveOps- versioning with git-github.
