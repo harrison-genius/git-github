@@ -1,1 +1,7 @@
-Push this file to github
+
+
+
+
+
+Push this file to github. I am learnig how to pull and push latest chnges from and to git remote repository
+
